@@ -34,3 +34,5 @@ Machine learning is using data to answer questions. So, Prediction, or inference
 
 ### 3.2 Results
 After phase 7 we did a model comparison to pick the best model based on accuracy and recall. 
+
+![image](https://user-images.githubusercontent.com/81964452/180622925-68324f1d-bf01-4515-8c65-8964f147796a.png)
