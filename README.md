@@ -29,6 +29,7 @@ Most of the times, your dataset will contain features highly varying in magnitud
 
 #### Phase 6- Model Selection
 Supervised learning is the method in which the machine is trained on the data which the input and output are well labelled. The model can learn on the training data and can process the future data to predict outcome. They are grouped to Regression and Classification techniques. A regression problem is when the result is a real or continuous value, such as “salary” or “weight”. A classification problem is when the result is a category like filtering emails spam” or “not spam”.
+
 ####Phase 7- Prediction
 Machine learning is using data to answer questions. So, Prediction, or inference, is the step where we get to answer some questions. This is the point of all this work, where the value of machine learning is real.
 
